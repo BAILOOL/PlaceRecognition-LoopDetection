@@ -1,0 +1,3 @@
+4
+/pathTo/PlaceRecognition&LoopDetectionData/PlaceRecognition/road_marking_centroids_3Dposition.txt
+/pathTo/PlaceRecognition&LoopDetectionCodes/PlaceRecognition/image_matches.txt
