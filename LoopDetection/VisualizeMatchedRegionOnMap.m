@@ -58,3 +58,4 @@ for i=1:size(allPairs,1)
             line(pts(:,1), pts(:,2), pts(:,3), 'Color',[0 0.8 0]);
     end
 end
+axis equal

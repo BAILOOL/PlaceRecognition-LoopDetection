@@ -73,4 +73,4 @@ for i=1:size(allPairs,1)
         end
     end
 end
-axis off
+axis equal

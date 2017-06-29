@@ -32,3 +32,4 @@ for i=1:(length(Poses))
     TRes(i,:) = [Poses(i,4) Poses(i,8) Poses(i,12)];
 end
 plot3(TRes(:,1),TRes(:,2),TRes(:,3),'b.');
+axis equal

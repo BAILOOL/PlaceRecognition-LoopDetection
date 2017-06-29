@@ -40,5 +40,3 @@ for i=1:(length(Poses2))
 end
 plot3(TRes(:,1),TRes(:,2),TRes(:,3),'b.');
 plot3(TRes2(:,1),TRes2(:,2),TRes2(:,3),'k.'); axis equal
-
-% visualize matched regions
