@@ -1,6 +1,6 @@
 # Light-weight place recognition and loop detection using road markings
 
-In order to reproduce results presented in the [paper](), follow the procedure below:
+In order to reproduce results presented in the [paper](https://www.researchgate.net/publication/320557008_Light-weight_place_recognition_and_loop_detection_using_road_markings), follow the procedure below:
 1. Download the [PlaceRecognition](http://rcv.kaist.ac.kr/place_recognition_loop_detection_dataset/PlaceRecognition.zip) and [LoopDetection](http://rcv.kaist.ac.kr/place_recognition_loop_detection_dataset/LoopDetection.zip) datasets.
 The datasets structure are the following:
 ```
