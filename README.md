@@ -67,3 +67,14 @@ make
 ```
 To run the code ``` ./Place_Recognition ../input_info.txt ```.
 Run Matlab codes from appropriate foldes (*PlaceRecognition* or *LoopDetection*) to visualize results.
+
+## Citation
+If you use this code or dataset in your research, please cite:
+```
+@article{bailo2017light,
+  title={Light-weight place recognition and loop detection using road markings},
+  author={Bailo, Oleksandr and Rameau, Francois and Kweon, In So},
+  journal={arXiv preprint arXiv:1710.07434},
+  year={2017}
+}
+```
