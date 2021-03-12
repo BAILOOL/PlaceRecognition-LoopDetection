@@ -1,5 +1,7 @@
 # Light-weight place recognition and loop detection using road markings
 
+[![View PlaceRecognition-LoopDetection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/88718-placerecognition-loopdetection)
+
 In order to reproduce results presented in the [paper](https://www.researchgate.net/publication/320557008_Light-weight_place_recognition_and_loop_detection_using_road_markings), follow the procedure below:
 1. Download the [PlaceRecognition](https://cloud.frameau.xyz/index.php/s/qn7cNaS6sg4XTnJ) and [LoopDetection](https://cloud.frameau.xyz/index.php/s/XZb6aqRrj9YDE83) datasets.
 The datasets structure are the following:
